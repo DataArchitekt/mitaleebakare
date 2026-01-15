@@ -8,7 +8,7 @@ I’ve spent several years working in the **analytics and data engineering space
 👯 I’m looking to collaborate with people interested in **GenAI use cases, data architecture, and real-world AI projects**  
 🤔 I’m happy to help with **data modeling, analytics platforms, AI data pipelines, and architecture design discussions**  
 📂 I maintain hands-on projects around **GenAI & Agentic Systems** in a separate repository  
-📫 How to reach me: Connect with me on mitalee.bakare@gmail.com 
+📫 How to reach me: Connect with me on mitalee.bakare@gmail.com
 ⚡ Fun fact: Every product feature eventually becomes a data problem — and I enjoy solving it 🙂
 
 ---
